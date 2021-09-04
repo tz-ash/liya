@@ -19,6 +19,14 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/tz-ash/liya) 
 
 
+## Necessary Variables
+- `API_ID` - Your API_ID from [my.telegram.org](https://my.telegram.org/)
+- `API_HASH` - Your API_HASH from [my.telegram.org](https://my.telegram.org/)
+- `BOT_TOKEN` - Your Bot api token. Get it from [@BOTFATHER](https://t.me/BOTFATHER) 
+- `ARQ_API_KEY` - Get this from [@ARQRobot](https://t.me/ARQRobot). 
+- `LANGUAGE` - Choose your language code from [HERE](https://py-googletrans.readthedocs.io/en/latest/#googletrans-languages) 
+- `ARQ_API_BASE_URL` - Don't change this war [https://thearq.tech](https://thearq.tech) 
+
 
 
 
