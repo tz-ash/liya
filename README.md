@@ -14,6 +14,11 @@
 - Python 3.7 or higher.
 - A [BOT_TOKEN](https://t.me/botfather).
 
+# DEPLOY TO RAILWAY
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/tz-ash/liya) 
+
+
 
 
 
